@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Metal Gear Rising: Revengance"
 category: articles
-tags: [PS3, 3rd person]
+tags: [PS3, 3rd person, action adventure]
 ---
 
 * Battle is complicated. Tutorial doesn't explain it well: not all the bits. Some things are prompted, but suddenly they disappear.
