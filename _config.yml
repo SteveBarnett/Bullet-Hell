@@ -1,37 +1,25 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Bullet Hell
+tagline:          One bullet at a time.
+description:      Brief game reviews by Max Barners.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+# url: http://bullet-hell.co.za
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        ctrunsthis        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
-  # Plug in your disqus shortname!
-  
+  name:           Max Barners
+  avatar:         square_barners.jpg
+  bio:            "Web Site Maker, Picture Taker, (Ex) Shop Maintainer, Avid Gamer. Max Barners is just my stage name."
+  email:          max@maxbarners.com
+  twitter:        maxbarners
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Africa/Johannesburg
 future:      true
 pygments:    true
 markdown:    kramdown
@@ -44,7 +32,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
