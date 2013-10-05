@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Resistance 3"
 category: articles
-tags: [ps3, fps]
+tags: [PS3, FPS]
 ---
 
 * Great, rich, culture / info on aliens

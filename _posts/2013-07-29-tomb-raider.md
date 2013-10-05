@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Tomb Raider"
 category: articles
-tags: [ps3, 3rd person]
+tags: [PS3, 3rd person]
 ---
 
 * Great, realistic, jungle setting and abandoned village stuff.

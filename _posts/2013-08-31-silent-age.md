@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Silent Age"
 category: articles
-tags: [iOS]
+tags: [iOS, point and click]
 ---
 
 * Rain adds atmosphere

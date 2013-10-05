@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Fish out of water"
 category: articles
-tags: [iOS]
+tags: [iOS, physics]
 ---
 
 * fun to play, simple mechanic

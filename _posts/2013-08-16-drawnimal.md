@@ -2,6 +2,7 @@
 layout: post-no-feature
 title: "Drawnimal"
 category: articles
+tags: [iOS, toy]
 ---
 
 

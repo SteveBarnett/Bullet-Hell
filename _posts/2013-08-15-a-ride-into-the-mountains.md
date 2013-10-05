@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "A ride into the mountains"
 category: articles
-tags:[iOS, indie]
+tags: [iOS, indie]
 ---
 
 * Using tilt to move isn't good for quick reactions, precision, or fast movement

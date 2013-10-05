@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Dropchord"
 category: articles
-tags: [iOS]
+tags: [iOS, twitch]
 ---
 
 * Cool neon sparky, ignition cable, visuals

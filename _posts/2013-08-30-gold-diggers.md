@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "Gold diggers"
 category: articles
-tags: [iOS]
+tags: [iOS, twitch, endless runner]
 ---
 
 * Cowboy steam punk miner theme is cool

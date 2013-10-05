@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "DmC: Devil May Cry"
 category: articles
-tags: [XBox360, 3rd person]
+tags: [XBox360, 3rd person, action adventure]
 ---
 
 * Cool mix of demonic and technological
