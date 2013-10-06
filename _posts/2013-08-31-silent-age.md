@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "Silent Age"
+title: The Silent Age
 category: articles
 tags: [iOS, point and click]
 ---
@@ -13,3 +13,4 @@ tags: [iOS, point and click]
 * 70s setting is very well realised.
 * Episodic content is cool, but each episode must have an arc. This one felt a little Lost-like: no big reveals or story content in the second half.
 
+[The Silent Age](http://thesilentage.com/)

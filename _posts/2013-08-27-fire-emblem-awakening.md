@@ -13,3 +13,4 @@ tags: [3DS, strategy]
 * power triangle is simple but so powerful
   * tweaks on it are great: horses, pegasii
 
+[Fire Emblem](http://fireemblem.nintendo.com/)

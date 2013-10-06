@@ -14,3 +14,4 @@ tags: [iOS, platformer]
 * Controls are still classic left and right in dpad.
 * Explode fur jump is a gimmick, but a cool one.
 
+[Ms Splosion Man](http://mssplosionman.com/)

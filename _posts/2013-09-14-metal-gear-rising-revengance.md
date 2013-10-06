@@ -15,3 +15,4 @@ tags: [PS3, 3rd person, action adventure]
 * Cut scenes are a more sensible length than rest of series
 * Hulk-like final boss is a bit dull, tired. Bad guys team isn't as cohesive, team like, as previous games in series
 
+[Metal Gear Rising: Revengance - official Konami site](http://www.konami.jp/mgr/)

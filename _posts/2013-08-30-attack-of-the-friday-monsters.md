@@ -15,3 +15,4 @@ tags: [3DS, RPG]
 * Trains going by in those background make the place feel alive
 * Having kids TV style narrator is slightly patronising, but generally cool.
 
+[Attack of the Friday Monsters](http://level5ia.com/blackbox/us/friday-monsters/)

@@ -17,3 +17,4 @@ tags: [XBox360, 3rd person, action adventure]
 * Waves of bullet time during the car chase sequence are brilliant and resonant
 * Dream like quality of broken pieces of cityscape floating around
 
+[Devil May Cry](http://www.devilmaycry.com/)

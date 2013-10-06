@@ -13,3 +13,5 @@ tags: [3DS, shooter]
 * The purification theme: things go green, leafy, when purified.
 * Deep story is revealed as unlockables.
 * Controls aren't great. Strafing (hold L shoulder, use stick) is physically hard to do while also using the touchscreen!
+
+[Liberation Maiden](http://level5ia.com/blackbox/us/liberation-maiden/)

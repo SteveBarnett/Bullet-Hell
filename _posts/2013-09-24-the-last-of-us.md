@@ -19,3 +19,4 @@ tags: [PS3, 3rd person, action adventure]
    * Deep, flawed, character of Joel
    * Brave and intersting to set the game over a long time period
 
+[The Last of Us official site](http://www.thelastofus.com/)
