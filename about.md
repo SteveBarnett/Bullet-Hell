@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: One bullet at a time
 ---
 
-Bullet Hell is a collection of brief game reviews and observations by Max Barners. That's me. Hi!
+Bullet Hell is a collection of brief game observations by Max Barners. That's me. Hi!
 
 For high quality, thoughtful, games journalism, try [Edge](http://www.edge-online.com/).
 
