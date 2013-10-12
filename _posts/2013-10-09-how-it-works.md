@@ -1,8 +1,8 @@
 ---
 layout: post-no-feature
-title: How It Works: Machines
+title: How It Works - Machines
 category: articles
-tags: [ios, toy, education]
+tags: [iOS, toy, education]
 ---
 
 * cute idea: animated diagrams of everyday things.
