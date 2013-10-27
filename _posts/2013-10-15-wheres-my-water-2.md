@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: Where’s My Water 2
+title: Where's My Water 2
 category: articles
 tags: [iOS, physics, puzzle]
 ---
@@ -11,4 +11,4 @@ tags: [iOS, physics, puzzle]
 * Simple, easy to pick up, and satisfying interface: carving through dirt with a fingertip.
 
 
-[Where’s My Water  2](https://itunes.apple.com/us/app/wheres-my-water-2/id638853147?mt=8)
+[Where's My Water  2](https://itunes.apple.com/us/app/wheres-my-water-2/id638853147?mt=8)
