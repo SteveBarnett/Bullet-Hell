@@ -5,8 +5,8 @@ category: articles
 tags: []
 ---
 
-<a href="">![](/images/.jpg)</a>
+<a href="">![{{ page.title }}](/images/.jpg)</a>
 
 *
 
-[Link to site](http://example.com)
+[{{ page.title }}](http://example.com)
