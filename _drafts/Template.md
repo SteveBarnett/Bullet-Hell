@@ -3,10 +3,11 @@ layout: post-no-feature
 title:
 category: articles
 tags: []
+linky: http://example.com
 ---
 
-<a href="">![{{ page.title }}](/images/.jpg)</a>
+<a href="{{page.linky}}">![{{ page.title }}](/images/.jpg)</a>
 
 *
 
-[{{ page.title }}](http://example.com)
+[{{ page.title }}]({{page.linky}})
