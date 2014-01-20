@@ -3,7 +3,7 @@ layout: post-no-feature
 title: Gunman Clive
 category: articles
 tags: [iOS, shooter, old school]
-linky: http://example.com
+linky: http://www.gunmanclive.com/
 ---
 
 <a href="{{page.linky}}">![{{ page.title }}](/images/gunman-clive.jpg)</a>
