@@ -3,7 +3,7 @@ layout: post-no-feature
 title: Saturday Morning RPG
 category: articles
 tags: [Ouya, played on Ouya, iOS]
-linky: http://example.com
+linky: http://www.mightyrabbitstudios.com/?page_id=48
 ---
 
 <a href="{{page.linky}}">![{{ page.title }}](/images/Saturday-Morning-RPG.jpg)</a>
