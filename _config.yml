@@ -2,7 +2,7 @@ title:            Bullet Hell
 tagline:          One bullet at a time.
 description:      Brief game observations by Max Barners.
 #Comment out url when working locally to resolve base urls correctly
-url: http://bullet-hell.co.za
+# url: http://bullet-hell.co.za
 
 # Owner/author information
 owner:
@@ -21,7 +21,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Africa/Johannesburg
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 kramdown:
