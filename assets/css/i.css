@@ -641,45 +641,7 @@ header.site-header nav ul li a:hover {
 .archive-wrap .post-list li a {
   position: relative;
 }
-.archive-wrap .post-list li a:hover {
-  -moz-transition: all 1s ease-in-out;
-  -o-transition: all 1s ease-in-out;
-  -webkit-transition: all 1s ease-in-out;
-  -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
-}
-.archive-wrap .post-list li a:hover:before {
-  content: '...';
-  color: #d9d9d9;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
-  position: absolute;
-  margin-left: -70px;
-  font-size: 40px;
-  left: 0;
-  top: -20px;
-  text-align: center;
-  -moz-transition: all 1s ease-in-out;
-  -o-transition: all 1s ease-in-out;
-  -webkit-transition: all 1s ease-in-out;
-  -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
-}
-.archive-wrap .post-list li a:before {
-  content: '“';
-  color: #d9d9d9;
-  position: absolute;
-  margin-left: -70px;
-  font-size: 60px;
-  z-index: 10;
-  top: -6px;
-  left: 0;
-  text-align: center;
-  -moz-transition: all 1s ease-in-out;
-  -o-transition: all 1s ease-in-out;
-  -webkit-transition: all 1s ease-in-out;
-  -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
-}
+
 .archive-wrap .post-list li h1 {
   font-size: 32px;
   font-style: italic;
