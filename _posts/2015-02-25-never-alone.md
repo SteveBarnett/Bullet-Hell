@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: Never Alone
 category: articles
-tags: [PS4, XBox One, Steam, Played on PS$]
+tags: [PS4, XBox One, Steam, Played on PS4]
 linky: http://neveralonegame.com/
 img: never-alone.jpeg
 ---
