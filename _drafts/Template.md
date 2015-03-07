@@ -1,10 +1,10 @@
 ---
 layout: post-no-feature
-title:
+title: 
 category: articles
 tags: []
-linky:
-img:
+linky: 
+img: 
 ---
 
 {% if page.linky %}
