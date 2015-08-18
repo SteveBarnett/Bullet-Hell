@@ -13,6 +13,7 @@ img: submerged.jpg
 ![{{ page.title }}](/images/{{page.img}})
 {% endif %}
 
+* No fighting. No enemies. No danger. Peaceful, pleasing, exploration.
 * Beautiful landscape, and just my kind of post-apocalypse. Overgrown buildings, flooded world.
 * Clever and atmospheric use of camera angles when doing a big / long climb.
 * A little bit clunky in terms of gameplay mechanics and controls sometimes, but sailing is silky smooth and fun.
