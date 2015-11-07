@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title:
+title: Metal Gear Solid - The Phantom Pain
 category: articles
 tags: [PS4, PS#, Xbox One, Xbox 360, PC]
 linky: http://www.konami.jp/mgs5/
