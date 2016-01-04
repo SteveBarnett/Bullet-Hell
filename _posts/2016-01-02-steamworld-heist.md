@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: Steamworld Dig
+title: Steamworld Heist
 category: articles
 tags: [played on 3DS, 3DS]
 linky: http://imageform.se/game/steamworld-heist/
