@@ -12,16 +12,7 @@ For high quality, thoughtful, games journalism, try [Edge](http://www.edge-onlin
 
 Other fine gaming publications include:
 
-* [Computer And Video Games](http://www.computerandvideogames.com)
-* [Experimental Gameplay Project](http://experimentalgameplay.com/)
-* [forest ambassador](http://forestambassador.com/)
-* [Game Mob](http://gamemob.com/)
-* [Game On](https://blog.mozilla.org/gameon)
-* [1UP](http://www.1up.com/)
-* [Jay is Games](http://jayisgames.com)
-* [Play This Thing](http://playthisthing.com/)
-* [BeefJack](http://beefjack.com/)
+* [US Gamer](http://www.usgamer.net/)
 * [destructoid](http://www.destructoid.com)
-* [Kill Screen Daily](http://killscreendaily.com/)
-* [Kotaku](http://kotaku.com)
+* [Jay is Games](http://jayisgames.com)
 * [Polygon](http://www.polygon.com)
