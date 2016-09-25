@@ -13,7 +13,7 @@ img:
 ![{{ page.title }}](/images/{{page.img}})
 {% endif %}
 
-*
+- 
 
 {% if page.linky %}
 [{{ page.title }}]({{page.linky}})
