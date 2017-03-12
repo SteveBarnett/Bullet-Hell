@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: Stardew Valley
 category: articles
-tags: []
+tags: [PC, PS4]
 linky: http://stardewvalley.net/
 img: stardew-valley.png
 ---
